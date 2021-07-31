@@ -14,7 +14,7 @@ namespace SimpleAPI.Test
             //Act
             var output = we.FetchData(1);
             //assert
-            Assert.Equal("Girish Saxen",output);
+            Assert.Equal("Girish Saxena",output);
         }
     }
 }
